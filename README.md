@@ -12,7 +12,6 @@ There are no specific instructions for using this repository since it's designed
 ## Folder Structure
 The directory structure of this workspace is organized as follows:
 
-```text
 workspace/
 ├── README.md           # Project documentation
 ├── docs/                # Documentation for the workspace or individual projects
@@ -23,7 +22,7 @@ workspace/
 ├── resources/           # Common resources like datasets, templates, or libraries
 └── .gitignore           # Global .gitignore for the workspace
 
-Contributing
+## Contributing
 If you'd like to contribute to this workspace, please follow these guidelines:
 
 Fork the repository and create a new branch for your changes.
