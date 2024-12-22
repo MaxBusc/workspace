@@ -11,7 +11,7 @@ There are no specific instructions for using this repository since it's designed
 
 ## Folder Structure
 The directory structure of this workspace is organized as follows:
-
+```bash
 workspace/
 ├── README.md           # Project documentation
 ├── docs/                # Documentation for the workspace or individual projects
@@ -21,7 +21,7 @@ workspace/
 ├── tools/               # Reusable tools, utilities, or scripts across projects
 ├── resources/           # Common resources like datasets, templates, or libraries
 └── .gitignore           # Global .gitignore for the workspace
-
+```
 ## Contributing
 If you'd like to contribute to this workspace, please follow these guidelines:
 
