@@ -1,34 +1,4 @@
-# Ignore all system files
-.DS_Store
-Thumbs.db
-
-# Ignore environment files
-.env
-*.env
-
-# Ignore virtual environments
-venv/
-env/
 __pycache__/
-
-# Ignore IDE-specific files
-.vscode/
-.idea/
-
-# Ignore log files
-*.log
-
-# Ignore operating system-specific files
-*.swp
-*.bak
-
-# Ignore coverage files (if you run tests)
-coverage/
-
-# Ignore package manager files (for Node.js or Python)
-node_modules/
-pipenv/
-__pypackages__/
-
-# Ignore temporary files
-*.tmp
+*.pyc
+.ipynb_checkpoints/
+.env
